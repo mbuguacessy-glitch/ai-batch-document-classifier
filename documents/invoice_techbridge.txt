@@ -1,0 +1,10 @@
+INVOICE #TB-2026-0089
+From: TechBridge Solutions | To: Rapid Solutions
+Date: 9 May 2026 | Due: 23 May 2026
+
+Cloud infrastructure management: KES 45,000
+Security monitoring: KES 18,000
+On-call support: KES 24,000
+Subtotal: KES 87,000
+VAT (16%): KES 13,920
+TOTAL DUE: KES 100,920

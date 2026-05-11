@@ -1,0 +1,8 @@
+SERVICE CONTRACT — Acme Corp and Rapid Solutions
+Date: 1 May 2026 | Expires: 30 April 2027
+
+Scope: Rapid Solutions provides automation consulting and AI integration.
+Payment: KES 85,000 per month, due within 14 days of invoice.
+Late payment: 2% monthly interest applies automatically.
+Termination: 60 days written notice required by either party.
+Penalty: Missed milestones incur 10% fee reduction per week delayed.
