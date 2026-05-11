@@ -1,0 +1,64 @@
+{
+  "run_timestamp": "2026-05-11T16:14:57.205296",
+  "total_documents": 5,
+  "successful": 5,
+  "errors": 0,
+  "urgent_count": 1,
+  "classifications": [
+    {
+      "category": "complaint",
+      "urgency": "urgent",
+      "summary": "BuildRight Agency's payroll system has been down since yesterday, affecting 450 staff who have not received salaries.",
+      "key_action": "Resolve payroll system outage before 5pm today to avoid legal escalation",
+      "deadline_mentioned": true,
+      "estimated_value_kes": 0,
+      "filename": "urgent_complaint.txt",
+      "classified_at": "2026-05-11T16:14:57.205296",
+      "status": "success"
+    },
+    {
+      "category": "contract",
+      "urgency": "standard",
+      "summary": "Service contract between Acme Corp and Rapid Solutions for automation consulting and AI integration from May 2026 to April 2027.",
+      "key_action": "Review contract terms and ensure compliance with payment schedule and milestone deliverables",
+      "deadline_mentioned": true,
+      "estimated_value_kes": 1020000,
+      "filename": "contract_acme.txt",
+      "classified_at": "2026-05-11T16:14:44.726542",
+      "status": "success"
+    },
+    {
+      "category": "invoice",
+      "urgency": "standard",
+      "summary": "Invoice from TechBridge Solutions for cloud infrastructure, security monitoring, and support services totaling KES 100,920.",
+      "key_action": "Pay invoice by due date of 23 May 2026",
+      "deadline_mentioned": true,
+      "estimated_value_kes": 100920,
+      "filename": "invoice_techbridge.txt",
+      "classified_at": "2026-05-11T16:14:47.541714",
+      "status": "success"
+    },
+    {
+      "category": "meeting_notes",
+      "urgency": "standard",
+      "summary": "Weekly strategy session covering Q2 revenue performance, hiring needs, product roadmap, and office lease renewal.",
+      "key_action": "CEO to approve hiring budget by May 15",
+      "deadline_mentioned": true,
+      "estimated_value_kes": 0,
+      "filename": "meeting_notes_may9.txt",
+      "classified_at": "2026-05-11T16:14:51.176908",
+      "status": "success"
+    },
+    {
+      "category": "policy",
+      "urgency": "low",
+      "summary": "Remote work policy outlining eligibility, work schedule, equipment allowances, and security requirements effective January 2026.",
+      "key_action": "Review and ensure compliance with remote work guidelines including VPN usage and equipment protocols.",
+      "deadline_mentioned": true,
+      "estimated_value_kes": 3000,
+      "filename": "policy_remote_work.txt",
+      "classified_at": "2026-05-11T16:14:54.376050",
+      "status": "success"
+    }
+  ]
+}

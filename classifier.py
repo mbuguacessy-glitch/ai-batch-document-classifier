@@ -7,8 +7,7 @@
 
 import os
 import json
-# glob is a Python module for finding files that match a pattern.
-import glob
+import glob  # glob is a Python module for finding files that match a pattern.
 from pathlib import Path
 from datetime import datetime
 from dotenv import load_dotenv
